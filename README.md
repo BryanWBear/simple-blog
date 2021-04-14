@@ -106,9 +106,9 @@ Edit the export object in `data/SiteConfig`:
 
 ```js
 module.exports = {
-  siteTitle: "Gatsby Markdown Blog Starter", // Site title.
-  siteTitleShort: "GA Markdown Blog Starter", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Gatsby Markdown Blog Starter", // Alternative site title for SEO.
+  siteTitle: "Bryan's Blog", // Site title.
+  siteTitleShort: "Bryan's Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Bryan's Blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://gatsby-markdown-blog-starter.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-markdown-blog-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
